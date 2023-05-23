@@ -1,7 +1,8 @@
 ### Hi there 👋
 ##🔭 I’m currently working on building my GitHub page and learning Mobile Application testing 
+
 ##My CV
-[Link to my CV]()
+[Link to my CV](https://drive.google.com/file/d/1xcZDbz-ULMoxir5MDA-dQOS9BU9xQL1l/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
