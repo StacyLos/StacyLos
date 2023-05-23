@@ -1,5 +1,5 @@
 # Practical task for SQL
-## LOL
+
 With tutorial [Databases "SQL Tutorial"](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) I was able to practically work with the data in these databases.
 
 ### Actions that have been taken:
